@@ -3,7 +3,7 @@
    Own files: served from cache, refreshed in the background.
    Libraries and fonts from CDNs: cached on first use (their URLs are versioned).
    Everything else (the AI checker API, WhatsApp, past-paper PDFs, YouTube) goes straight to the network. */
-const VERSION = 'sl-1';
+const VERSION = 'sl-2';
 const CORE = ['./', 'index.html', 'ykw.html', 'offline.html', 'manifest.webmanifest',
   'icon-192.png', 'icon-512.png', 'icon-maskable-512.png', 'apple-touch-icon.png'];
 const CDN = /^https:\/\/(cdnjs\.cloudflare\.com|unpkg\.com|fonts\.googleapis\.com|fonts\.gstatic\.com)\//;

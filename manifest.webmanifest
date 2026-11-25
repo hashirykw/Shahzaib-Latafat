@@ -94,5 +94,21 @@
         }
       ]
     }
+  ],
+  "screenshots": [
+    {
+      "src": "screenshots/wide.jpg",
+      "sizes": "1440x900",
+      "type": "image/jpeg",
+      "form_factor": "wide",
+      "label": "Maths With Sir Shazy on a laptop"
+    },
+    {
+      "src": "screenshots/narrow.jpg",
+      "sizes": "540x1169",
+      "type": "image/jpeg",
+      "form_factor": "narrow",
+      "label": "Maths With Sir Shazy on a phone"
+    }
   ]
 }
