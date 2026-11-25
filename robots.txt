@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /ykw.html
+Disallow: /api/
+Sitemap: https://shahzaib-latafat.nexlyr.solutions/sitemap.xml
